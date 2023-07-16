@@ -23,3 +23,21 @@ print(message2)
 message2 = '*'.join(message2) #we want to join list 
 print(message2)
 
+index = message2.find('today')
+print(index)
+
+isFound = message2.startswith('I')
+print(isFound) #response bool
+
+isFound2 = message2.endswith('.')
+print(isFound2)
+
+message2 = message2.replace('today','this week')
+print(message2)
+
+message2 = message2.center(100)
+print(message2)
+
+message3 = 'I study every day bacuse i have a dream.'
+message3 = message3.center(50,'*')
+print(message3)
