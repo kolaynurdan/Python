@@ -1,5 +1,5 @@
 website = "http://www.nurdankolay.com"
-course = "Python course: Python Programming"
+course = "Python course: Python Programming from Scratch bla bla"
 
 #1- ' Hello World '- delete the spaces at the beginning and end of the list.
 
@@ -54,5 +54,45 @@ print(w)
 #6- 'website', '.com' char in it?
 variable2 = website.find('.com')
 print(variable2) #indexnumber
-variable3 = website.find('')
-#7- 
+variable3 = website.find('com',0,26) #range
+print(variable3)
+variable4 = course.find('Python')
+print(variable4)
+variable5 = course.rfind('Python')
+print(variable5)
+
+#7- 'course' is alpha or is digit?
+result5 = course.isalpha()
+print(result5) #there is a sign character. bool answer is false.
+variable6 = 'hello'.isalpha()
+print(variable6)
+result6 = course.isdigit()
+print(result6)
+result7 = '123'.isdigit()
+print(result7)
+
+#8- put left and right '*' char 'contents' expression.
+
+result4 = 'Contents'.center(50,'*')
+print(result4)
+result8 = 'Contents'.ljust(50,'*')
+print(result8)
+result9 = 'Contents'.rjust(50,'*')
+print(result9)
+
+#9- we replace all of spaces with '-' in 'course'.
+
+result10 = course.replace(' ','-')
+print(result10)
+result11 = course.replace(' ','-',5)
+print(result11)
+result12 = course.replace(' ','')
+print(result12)
+
+#10- we want to change 'Hello World' to 'Hello There'
+result13 = 'Hello World'.replace('World','There')
+print(result13)
+
+#11- 'course' list split spaces.
+result14 = course.split(' ')
+print(result14)
