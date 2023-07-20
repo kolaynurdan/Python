@@ -12,3 +12,4 @@ All about Python Programming
 * [string-methods-demo](/string-methods-demo.py)
 * [lists](/lists.py)
 * [lists-demo](/lists-demo.py)
+* [list-methods](/list-methods.py)
