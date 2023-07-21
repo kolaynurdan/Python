@@ -16,3 +16,5 @@ All about Python Programming
 * [list-methods-demo](/list-methods-demo.py)
 * [tuple](/tuple.py)
 * [dictionary](/dictionary.py)
+* [dictionary-demo](/dictionary-demo.py)
+* [sets](/sets.py)
