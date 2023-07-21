@@ -15,3 +15,4 @@ All about Python Programming
 * [list-methods](/list-methods.py)
 * [list-methods-demo](/list-methods-demo.py)
 * [tuple](/tuple.py)
+* [dictionary](/dictionary.py)

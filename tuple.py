@@ -11,4 +11,17 @@ tuple = (1, 'iki', 3)
 #print(len(tuple))
 #print(len(list))
 
-list = []
+list = ['ali','veli']
+tuple = ('damla','yaren','yaren')
+names = ('demet','mahmut','damla') + tuple
+
+list[0] = 'ahmet'
+#dont change tuple member but you can change list member
+#tuple[0] = 'deniz' 
+
+print(list)
+print(tuple)
+
+print(tuple.count('yaren'))
+
+print(names)
