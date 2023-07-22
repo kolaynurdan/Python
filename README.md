@@ -19,3 +19,4 @@ All about Python Programming
 * [dictionary-demo](/dictionary-demo.py)
 * [sets](/sets.py)
 * [reference](/reference.py)
+* [assignment](/assignment.py)
