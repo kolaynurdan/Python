@@ -3,11 +3,11 @@ x,y,z = 2,5,10
 numbers = 1,5,7,10,6
 
 #1- The difference between the 2 numbers entered by the user and the sum of x, y, z?
-#a = int(input('Please enter a number: '))
-#b = int(input('Please enter a number: '))
+a = int(input('Please enter a number: '))
+b = int(input('Please enter a number: '))
 
-#result = (a*b) - (x+y+z)
-#print(result)
+result = (a*b) - (x+y+z)
+print(result)
 
 #2- dividing y by x without a remainder
 

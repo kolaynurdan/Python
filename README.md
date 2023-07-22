@@ -21,3 +21,4 @@ All about Python Programming
 * [reference](/reference.py)
 * [assignment](/assignment.py)
 * [assignments-demo](/assignments-demo.py)
+* [comparison](/comparison.py)
