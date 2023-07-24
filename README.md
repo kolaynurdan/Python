@@ -26,3 +26,6 @@ All about Python Programming
 * [logical](/logical.py)
 * [logical-demo](/logical-demo.py)
 * [others](/others.py)
+Python statements with examples
+* [if-else](/condational-statements/if-else.py)
+* [if-elif](/condational-statements/if-elif.py)
