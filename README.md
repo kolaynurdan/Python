@@ -22,3 +22,4 @@ All about Python Programming
 * [assignment](/assignment.py)
 * [assignments-demo](/assignments-demo.py)
 * [comparison](/comparison.py)
+* [comparison-demo](/comparison-demo.py)
