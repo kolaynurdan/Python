@@ -23,3 +23,6 @@ All about Python Programming
 * [assignments-demo](/assignments-demo.py)
 * [comparison](/comparison.py)
 * [comparison-demo](/comparison-demo.py)
+* [logical](/logical.py)
+* [logical-demo](/logical-demo.py)
+* [others](/others.py)
