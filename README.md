@@ -30,3 +30,6 @@ All about Python Programming
 * [if-elif](/condational-statements/if-elif.py)
 * [if-elif-demo](/condational-statements/if-elif-demo.py)
 * [if-elif-demo-2](/condational-statements/if-elif-demo-2.py)
+#### Python loops
+* [for](/loops/for.py)
+* [for-demo](/loops/for-demo.py)
