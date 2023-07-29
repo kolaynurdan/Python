@@ -33,3 +33,4 @@ All about Python Programming
 #### Python loops
 * [for](/loops/for.py)
 * [for-demo](/loops/for-demo.py)
+* [while](/loops/while.py)
