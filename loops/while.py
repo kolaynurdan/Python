@@ -3,7 +3,7 @@
 x = 0
 
 while x<100:
-    #print(x) 
+    print(x) 
     x = x + 1
 
 print('This is over')
