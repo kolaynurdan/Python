@@ -1,4 +1,4 @@
-# Python
+### Python
 All about Python Programming
 
 ![Python](/images/coding_with_python.png)
@@ -35,3 +35,4 @@ All about Python Programming
 * [for-demo](/loops/for-demo.py)
 * [while](/loops/while.py)
 * [while-demo](/loops/while-demo.py)
+* [break-continue](/loops/break-continue.py)
