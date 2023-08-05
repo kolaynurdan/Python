@@ -38,3 +38,5 @@ All about Python Programming
 * [break-continue](/loops/break-continue.py)
 * [loop-operators](/loops/loop-operators.py)
 * [list-comprehensions](/loops/list-comprehensions.py)
+* [loops-demo](/loops/loops-demo.py)
+* [prime-number](/loops/prime-number.py)
