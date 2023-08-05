@@ -37,3 +37,4 @@ All about Python Programming
 * [while-demo](/loops/while-demo.py)
 * [break-continue](/loops/break-continue.py)
 * [loop-operators](/loops/loop-operators.py)
+* [list-comprehensions](/loops/list-comprehensions.py)
