@@ -40,3 +40,4 @@ All about Python Programming
 * [list-comprehensions](/loops/list-comprehensions.py)
 * [loops-demo](/loops/loops-demo.py)
 * [prime-number](/loops/prime-number.py)
+* [functions](/functions/functions.py)
