@@ -42,3 +42,4 @@ All about Python Programming
 * [prime-number](/loops/prime-number.py)
 * [functions](/functions/functions.py)
 * [arguments](/functions/arguments.py)
+* [function-demo](/functions/function-demo.py)

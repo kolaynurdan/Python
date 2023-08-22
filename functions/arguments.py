@@ -40,3 +40,10 @@ def adddd(*params):
 print(adddd(10,20))
 print(adddd(10,20,30))
 print(adddd(10,30,60,90))
+
+
+def displayUser(**args):
+    for key, value in args.items():
+        print('{} is {}'.format(key,value))
+
+displayUser(name = 'Yigit', age = 2, city = 'Istanbul')
