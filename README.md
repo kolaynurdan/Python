@@ -43,3 +43,4 @@ All about Python Programming
 * [functions](/functions/functions.py)
 * [arguments](/functions/arguments.py)
 * [function-demo](/functions/function-demo.py)
+* [scope](/functions/scope.py)
