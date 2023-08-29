@@ -11,8 +11,12 @@ class Person:
     #methods
 
 #object instance
-p1 = Person()
-p2 = Person()
+p1 = Person('ali',1990)
+p2 = Person('hasan',1993)
+
+print(f'name: {p1.name} year: {p1.year}')
+print(f'name: {p2.name} year: {p2.year}')
+
 print(p1)
 print(p2)
 print(type(p1))
