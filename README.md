@@ -48,3 +48,4 @@ All about Python Programming
 * [bank](/functions/bank.py)
 * [oop](/functions/oop.py)
 * [class](/functions/class.py)
+* [methods](/functions/methods.py)
