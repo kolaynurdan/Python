@@ -41,11 +41,14 @@ All about Python Programming
 * [list-comprehensions](/loops/list-comprehensions.py)
 * [loops-demo](/loops/loops-demo.py)
 * [prime-number](/loops/prime-number.py)
+#### Python functions
 * [functions](/functions/functions.py)
 * [arguments](/functions/arguments.py)
 * [function-demo](/functions/function-demo.py)
 * [scope](/functions/scope.py)
 * [bank](/functions/bank.py)
-* [oop](/functions/oop.py)
-* [class](/functions/class.py)
-* [methods](/functions/methods.py)
+#### Python OOP
+* [oop](/oop/oop.py)
+* [class](/oop/class.py)
+* [methods](/oop/methods.py)
+* [inheritance](/oop/inheritance.py)
