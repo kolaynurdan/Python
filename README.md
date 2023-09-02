@@ -54,3 +54,5 @@ All about Python Programming
 * [inheritance](/oop/inheritance.py)
 * [specials](/oop/specials.py)
 * [demo-quiz](/oop/demo-quiz.py)
+#### Python Modules
+* [math](/modules/math.py)
