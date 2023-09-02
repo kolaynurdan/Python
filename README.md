@@ -52,3 +52,4 @@ All about Python Programming
 * [class](/oop/class.py)
 * [methods](/oop/methods.py)
 * [inheritance](/oop/inheritance.py)
+* [specials](/oop/specials.py)
