@@ -56,3 +56,4 @@ All about Python Programming
 * [demo-quiz](/oop/demo-quiz.py)
 #### Python Modules
 * [math](/modules/math.py)
+* [random](/modules/_random_.py)
