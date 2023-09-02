@@ -53,3 +53,4 @@ All about Python Programming
 * [methods](/oop/methods.py)
 * [inheritance](/oop/inheritance.py)
 * [specials](/oop/specials.py)
+* [demo-quiz](/oop/demo-quiz.py)
