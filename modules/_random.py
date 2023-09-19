@@ -13,4 +13,9 @@ names = ['ali','yagmur','deniz','cenk']
 result = names[random.randint(0,len(names)-1)]
 result = random.choice(names)
 result = random.choice(greeting)
+
+listt = list(range(10))
+result = random.shuffle(listt)
+list1 = range(100)
+result = random.sample(list1, 3)
 print(result)

@@ -57,3 +57,5 @@ All about Python Programming
 #### Python Modules
 * [math](/modules/math.py)
 * [random](/modules/_random_.py)
+* [mod](/modules/mod.py)
+* [main](/modules/main.py)
