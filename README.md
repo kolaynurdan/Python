@@ -59,3 +59,5 @@ All about Python Programming
 * [random](/modules/_random_.py)
 * [mod](/modules/mod.py)
 * [main](/modules/main.py)
+#### Python Exceptions
+* [errors](/exceptions/errors.py)
