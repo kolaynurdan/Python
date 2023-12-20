@@ -61,3 +61,5 @@ All about Python Programming
 * [main](/modules/main.py)
 #### Python Exceptions
 * [errors](/exceptions/errors.py)
+* [handling](/exceptions/handling.py)
+* [raise](/exceptions/raise.py)
