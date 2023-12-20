@@ -18,5 +18,3 @@ try:
 except (ZeroDivisionError,ValueError) as a:
     print('You enter wrong value!')
     print(a)
-else:
-    break
